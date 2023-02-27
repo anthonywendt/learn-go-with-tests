@@ -1,4 +1,4 @@
-package smi
+package main
 
 import "testing"
 
